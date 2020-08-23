@@ -10153,7 +10153,7 @@ input[type=text], select, textarea {
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
-  resize: vertical 
+  resize: vertical
 }
 
 input[type=submit] {
@@ -10173,4 +10173,8 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
+}
+
+.copyright {
+  text-align: center!important;
 }
